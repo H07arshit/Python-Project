@@ -1,5 +1,5 @@
 # Python-Project
-<h1>Project 1: ATM Simulator</h1>h1>
+<h1>Project 1: ATM Simulator</h1>
 Starter data:
 correct_pin = "1234"
 balance = 10000
@@ -29,7 +29,7 @@ Expected output:
 Deposit 2000
 Withdraw 500
 
-Project 2: Student Marks Manager
+<h1>Project 2: Student Marks Manager</h1>
 Starter data:
 students = {"Aman": [85, 90, 78], "Riya": [92, 88, 95], "Zoya": [70, 65, 80]}
 
